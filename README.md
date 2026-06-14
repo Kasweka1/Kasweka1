@@ -1,4 +1,4 @@
-# Hey, I'm Kasweka 👋
+# Hey, I'm wababaDev
 
 Software engineer based in Lusaka, Zambia. I build backend systems and integrations — and I'm currently in a phase of deliberately going deeper: revisiting CS fundamentals I glossed over the first time (networking, computer architecture, data analysis), and trying to find where my curiosity naturally lands.
 
