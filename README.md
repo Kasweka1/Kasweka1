@@ -26,7 +26,7 @@ Tools         Git · Celery · Redis · RabbitMQ · MkDocs
 - 📡 **Networking** — working through Kurose & Ross bottom-up, with real hands-on context (MikroTik, Nginx, SSL, port forwarding). Targeting CompTIA Network+ and MikroTik Academy.
 - 📊 **Data analysis** — self-studying with Wes McKinney's pandas book, applying CRISP-DM methodology on real datasets.
 - 🏗️ **Computer architecture** — revisiting what I rushed through in university.
-- 🎓 **Learning analytics** — research interest I'm pursuing seriously. Applied for a MEXT Japanese Government Scholarship for a Master's focused on deriving competency signals from LMS interaction data.
+- 🎓 **Learning analytics** — research interest I'm pursuing seriously.
 
 ---
 
